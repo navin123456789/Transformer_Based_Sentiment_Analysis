@@ -62,7 +62,7 @@ This project implements a transformer-based sentiment analysis model using the I
 
 ## References
 
-- [IMDB Dataset](https://ai.stanford.edu/~amaas/data/sentiment/)
+- [IMDB Dataset](https://www.kaggle.com/datasets/lakshmi25npathi/imdb-dataset-of-50k-movie-reviews/)
 
 ## License
 
